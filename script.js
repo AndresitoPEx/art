@@ -1,3 +1,4 @@
+console.log("hola pe");
 //Funcion que aplica estilos a la opcion seleccionada
 function seleccionar(link){
     var opciones = document.querySelectorAll('#links a');

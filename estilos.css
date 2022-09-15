@@ -465,7 +465,7 @@ footer a{
     font-size: 26px;
 }
 /* SECCION RESPONSIVE */
- @media screen and (max-width:800){
+ @media screen and (max-width:800px){
     .redes{
         display: none;
     }
@@ -499,7 +499,7 @@ footer a{
         display: block;
     }
     #sobremi .contenedor-foto{
-        max-width: 200px;
+        max-width: 100px;
         margin: auto;
     }
     #sobremi .contenedor-foto img{
